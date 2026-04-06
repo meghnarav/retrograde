@@ -1,3 +1,3 @@
-# zodiac
+# retrograde
 
 Copyright (c) 2026 Meghna Ravikumar. All rights reserved. No part of this software may be reproduced or distributed without permission.
